@@ -32,6 +32,8 @@ Smart Resume analyzer is a web application that uses  NLP to scan the resume and
 ![sc1](https://user-images.githubusercontent.com/112860792/222917808-88657507-3b2f-4982-bc22-44fda527518a.png)
 
 ## Admin Side
-![sc2](https://user-images.githubusercontent.com/112860792/222917818-ab4f6b6e-47f8-49c4-871c-a40e8df3c4b1.png)
+![ss2](https://user-images.githubusercontent.com/112860792/222919290-f6024f18-c71a-4e94-9599-0294ae67f519.png)
+
+
 
 
